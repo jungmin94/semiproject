@@ -25,5 +25,10 @@
 -회원별 구매내역리스트를 통한 거래후기작성 기능 <br>
 
 * 구현언어 : Java, JSP, javaScript, Jquery, HTML/CSS, SQL
+* 프레임워크 : BootStrap
+* 사용 툴 : Eclipse, SQL Developer, Visual Studio Code
 * WAS : 톰캣(Tomcat 9.0)
 * API : 카카오페이 결제API 적용 
+* 시스템 : Git
+
+ 
